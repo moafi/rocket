@@ -25,8 +25,8 @@ If you still had any difficulties setting up your cron job, feel free to contact
 
 
 # Issue 2 - Cron job not working
-> As far as I'm concerned, when a real CRON job is not wokring, it's mostly a server-related issue as it is beyond WordPress and software level.
-> If a WP Cron wasn't working, I would be happy to take the initiative and help the user to troubleshoot it, but when a real Cron job is not working, it's better to let the hosting provider supprt tackle that.
+> As far as I'm concerned, when a real CRON job is not working, it's mostly a server-related issue as it is beyond WordPress and software level. <br>
+> If a WP-Cron weren’t working, I would be happy to take the initiative and help the user troubleshoot it, but when a real Cron job is not working, it's better to let the hosting provider support tackle that.
 
 ## Answer 2
 Hello Customer First Name!
